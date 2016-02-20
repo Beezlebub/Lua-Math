@@ -1,7 +1,7 @@
 # Lua Math Module - LMM
 
 ## About
-This is my personal library of (mostly) math functions, for use in the Lua scripted [Love2d](http://www.love2d.org.com) framework.
+This is my personal library of (mostly) math functions, for use in the Lua scripted [Love2d](http://www.love2d.org) framework.
 
 ### License
 The MIT License (MIT)
